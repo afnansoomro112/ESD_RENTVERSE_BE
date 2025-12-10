@@ -1,0 +1,11 @@
+public package com.nimbus.enums;
+
+public enum BookCarStatus {
+
+    PENDING,
+    APPROVED,
+    REJECTED
+}
+ {
+    
+}
